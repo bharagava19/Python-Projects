@@ -1,17 +1,18 @@
-PROJECT TITLE :OBSTACLES GAME
+# Project Title: Producing Graphic Models using Tkinter Module in Python
+# Abstract:
+The "Producing Graphic Models using Tkinter Module in Python" project aims to demonstrate how to create graphical models and interactive visualizations using the Tkinter library in Python. Tkinter is a standard GUI toolkit that allows developers to build graphical user interfaces, including windows, dialogs, buttons, and canvas elements for creating graphics.
 
-ABSTRACT :
+This project provides a hands-on approach to understand the basics of Tkinter, such as creating and configuring widgets, handling contact name and mobile number and storing into the contact management data.
 
-The "OBSTACLES Python Project" is a recreation of the classic OBSTACLE game using the Python programming language and the Pygame library. The project aims to demonstrate how to develop a simple 2D game with basic physics and interactive gameplay. Players control a BLOCK, trying to navigate it through gaps in a series of blocks without colliding with them.
+# Preview:
+![image](https://github.com/bharagava19/Python-Projects/assets/105537583/842cf195-42b1-4a12-81a2-4ea42d878bf3)
+![image](https://github.com/bharagava19/Python-Projects/assets/105537583/a3dbe001-a71c-45a4-8c65-df4a6950edc3)
 
-This project provides an opportunity for learners to understand game development concepts, such as game loops, collision detection, scoring, and user input handling. It serves as a fun and educational example of building a game from scratch using Python and Pygame.
 
-![image](https://github.com/bharagava19/Python-Projects/assets/105537583/e7644808-ef5d-406b-9447-25dcc4b9e1fe)
+# LinkedIn Post URL:
+The project was shared on LinkedIn to showcase the interactive graphical models developed using Tkinter. You can view the project's demonstration and details on LinkedIn through the following URL: LinkedIn Post
 
-## LinkedIn Post URL:
-The Flappy Bird Python project was showcased on LinkedIn to share the fun and educational game development experience. You can view the project demonstration and details on LinkedIn through the following URL: [LinkedIn Post](https://www.linkedin.com/posts/your_username/obstacles-python-project-developed-using-activity-1234567890)
+# Conclusion:
+The "Producing Graphic Models using Tkinter Module in Python" project demonstrates the capabilities of Tkinter for creating interactive graphical models. By following the examples and exploring the provided code, users can gain proficiency in designing and implementing custom graphics in Python applications.
 
-## Conclusion:
-The "Flappy Bird Python Project" provides a hands-on learning experience for game development enthusiasts, allowing them to explore the creation of a 2D game using Python and Pygame. The project demonstrates fundamental concepts of game programming, encouraging learners to expand their skills and creativity in game development.
-
-Developers are encouraged to modify, enhance, and customize the game as per their preferences and imagination. By sharing this project with the community, it aims to inspire others to embark on their game development journey with Python.
+The project's open-source nature allows developers to modify and expand the code to create more complex and diverse graphic models according to their specific requirements. It serves as a foundation for further learning and building interactive graphical applications using Tkinter and Python.
